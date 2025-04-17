@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpack=self.webpackChunkwebpack||[]).push([[372],{372:(e,u,a)=>{function l(){console.log("Feature loaded!"),alert("Feature module loaded successfully!")}a.r(u),a.d(u,{feature:()=>l})}}]);
